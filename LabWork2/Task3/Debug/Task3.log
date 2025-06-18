@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(541,5): warning MSB8029: Промежуточный каталог или каталог выхода не может располагаться во временном каталоге, потому что это может стать причиной проблем с добавочной сборкой.
+  Task3.cpp
+C:\Temp\ispp21\LabWork2\Task3\Task3.cpp(14,1): warning C4102: case3: неиспользованная метка
+  Task3.vcxproj -> C:\Temp\ispp21\LabWork2\Debug\Task3.exe

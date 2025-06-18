@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\123\\LabWork30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FB989-7310-4C3B-BE75-089D44E55086}|LabWork30\\LabWork30.csproj|d:\\123\\labwork30\\labwork30\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6FB989-7310-4C3B-BE75-089D44E55086}|LabWork30\\LabWork30.csproj|solutionrelative:labwork30\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FB989-7310-4C3B-BE75-089D44E55086}|LabWork30\\LabWork30.csproj|d:\\123\\labwork30\\labwork30\\protos\\order.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7B6FB989-7310-4C3B-BE75-089D44E55086}|LabWork30\\LabWork30.csproj|solutionrelative:labwork30\\protos\\order.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FB989-7310-4C3B-BE75-089D44E55086}|LabWork30\\LabWork30.csproj|d:\\123\\labwork30\\labwork30\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6FB989-7310-4C3B-BE75-089D44E55086}|LabWork30\\LabWork30.csproj|solutionrelative:labwork30\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6FB989-7310-4C3B-BE75-089D44E55086}|LabWork30\\LabWork30.csproj|d:\\123\\labwork30\\labwork30\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7B6FB989-7310-4C3B-BE75-089D44E55086}|LabWork30\\LabWork30.csproj|solutionrelative:labwork30\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "greet.proto",
+              "DocumentMoniker": "D:\\123\\LabWork30\\LabWork30\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "LabWork30\\Protos\\greet.proto",
+              "ToolTip": "D:\\123\\LabWork30\\LabWork30\\Protos\\greet.proto",
+              "RelativeToolTip": "LabWork30\\Protos\\greet.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-06-18T10:23:53.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "order.proto",
+              "DocumentMoniker": "D:\\123\\LabWork30\\LabWork30\\Protos\\order.proto",
+              "RelativeDocumentMoniker": "LabWork30\\Protos\\order.proto",
+              "ToolTip": "D:\\123\\LabWork30\\LabWork30\\Protos\\order.proto",
+              "RelativeToolTip": "LabWork30\\Protos\\order.proto",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-06-18T10:23:53.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "D:\\123\\LabWork30\\LabWork30\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "LabWork30\\Services\\GreeterService.cs",
+              "ToolTip": "D:\\123\\LabWork30\\LabWork30\\Services\\GreeterService.cs",
+              "RelativeToolTip": "LabWork30\\Services\\GreeterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:23:44.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\123\\LabWork30\\LabWork30\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "LabWork30\\Services\\OrderService.cs",
+              "ToolTip": "D:\\123\\LabWork30\\LabWork30\\Services\\OrderService.cs",
+              "RelativeToolTip": "LabWork30\\Services\\OrderService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:23:04.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

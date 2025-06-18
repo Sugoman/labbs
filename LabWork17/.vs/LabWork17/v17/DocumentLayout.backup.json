@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\.ispp21\\LabWork17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC33379A-1A74-45DF-996E-16B3E77342E8}|LabWork17\\LabWork17.csproj|c:\\temp\\.ispp21\\labwork17\\labwork17\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC33379A-1A74-45DF-996E-16B3E77342E8}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC33379A-1A74-45DF-996E-16B3E77342E8}|LabWork17\\LabWork17.csproj|c:\\temp\\.ispp21\\labwork17\\labwork17\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC33379A-1A74-45DF-996E-16B3E77342E8}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC33379A-1A74-45DF-996E-16B3E77342E8}|LabWork17\\LabWork17.csproj|c:\\temp\\.ispp21\\labwork17\\labwork17\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DC33379A-1A74-45DF-996E-16B3E77342E8}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC33379A-1A74-45DF-996E-16B3E77342E8}|LabWork17\\LabWork17.csproj|c:\\temp\\.ispp21\\labwork17\\labwork17\\fileitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC33379A-1A74-45DF-996E-16B3E77342E8}|LabWork17\\LabWork17.csproj|solutionrelative:labwork17\\fileitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileItem.cs",
+              "DocumentMoniker": "C:\\Temp\\.ispp21\\LabWork17\\LabWork17\\FileItem.cs",
+              "RelativeDocumentMoniker": "LabWork17\\FileItem.cs",
+              "ToolTip": "C:\\Temp\\.ispp21\\LabWork17\\LabWork17\\FileItem.cs",
+              "RelativeToolTip": "LabWork17\\FileItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:10:27.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Folder.cs",
+              "DocumentMoniker": "C:\\Temp\\.ispp21\\LabWork17\\LabWork17\\Folder.cs",
+              "RelativeDocumentMoniker": "LabWork17\\Folder.cs",
+              "ToolTip": "C:\\Temp\\.ispp21\\LabWork17\\LabWork17\\Folder.cs",
+              "RelativeToolTip": "LabWork17\\Folder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:08:13.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Temp\\.ispp21\\LabWork17\\LabWork17\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LabWork17\\MainWindow.xaml",
+              "ToolTip": "C:\\Temp\\.ispp21\\LabWork17\\LabWork17\\MainWindow.xaml",
+              "RelativeToolTip": "LabWork17\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T09:49:30.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\.ispp21\\LabWork17\\LabWork17\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork17\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Temp\\.ispp21\\LabWork17\\LabWork17\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LabWork17\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADgvxUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T09:49:29.043Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Temp\.ispp21\LabWork26\Client\bin\Debug\net8.0\Client.exe
+C:\Temp\.ispp21\LabWork26\Client\bin\Debug\net8.0\Client.deps.json
+C:\Temp\.ispp21\LabWork26\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Temp\.ispp21\LabWork26\Client\bin\Debug\net8.0\Client.dll
+C:\Temp\.ispp21\LabWork26\Client\bin\Debug\net8.0\Client.pdb
+C:\Temp\.ispp21\LabWork26\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\.ispp21\LabWork26\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Temp\.ispp21\LabWork26\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Temp\.ispp21\LabWork26\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Temp\.ispp21\LabWork26\Client\obj\Debug\net8.0\Client.dll
+C:\Temp\.ispp21\LabWork26\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Temp\.ispp21\LabWork26\Client\obj\Debug\net8.0\Client.pdb
+C:\Temp\.ispp21\LabWork26\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Temp\.ispp21\LabWork26\Client\obj\Debug\net8.0\ref\Client.dll

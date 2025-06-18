@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp21\\LabWork16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A12DB656-F6E2-41E4-98B8-C78F00164675}|LabWork16\\LabWork16.csproj|c:\\temp\\ispp21\\labwork16\\labwork16\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A12DB656-F6E2-41E4-98B8-C78F00164675}|LabWork16\\LabWork16.csproj|solutionrelative:labwork16\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp21\\LabWork16\\LabWork16\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork16\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp21\\LabWork16\\LabWork16\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LabWork16\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvykAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T09:45:49.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\.ispp21\\LabWork28\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A053132-5240-47D7-AF76-00595861258E}|SignalRClient\\SignalRClient.csproj|c:\\temp\\.ispp21\\labwork28\\signalrclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A053132-5240-47D7-AF76-00595861258E}|SignalRClient\\SignalRClient.csproj|solutionrelative:signalrclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACAD396-1951-440D-B69E-07D990C33A79}|SignalRService\\SignalRService.csproj|c:\\temp\\.ispp21\\labwork28\\signalrservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ACAD396-1951-440D-B69E-07D990C33A79}|SignalRService\\SignalRService.csproj|solutionrelative:signalrservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\.ispp21\\LabWork28\\SignalRClient\\Program.cs",
+              "RelativeDocumentMoniker": "SignalRClient\\Program.cs",
+              "ToolTip": "C:\\Temp\\.ispp21\\LabWork28\\SignalRClient\\Program.cs",
+              "RelativeToolTip": "SignalRClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:36:55.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\.ispp21\\LabWork28\\SignalRService\\Program.cs",
+              "RelativeDocumentMoniker": "SignalRService\\Program.cs",
+              "ToolTip": "C:\\Temp\\.ispp21\\LabWork28\\SignalRService\\Program.cs",
+              "RelativeToolTip": "SignalRService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:33:33.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

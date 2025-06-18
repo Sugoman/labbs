@@ -1,0 +1,14 @@
+C:\Temp\ispp21\LabWork24\LabWork24\bin\Debug\net8.0\LabWork24.exe
+C:\Temp\ispp21\LabWork24\LabWork24\bin\Debug\net8.0\LabWork24.deps.json
+C:\Temp\ispp21\LabWork24\LabWork24\bin\Debug\net8.0\LabWork24.runtimeconfig.json
+C:\Temp\ispp21\LabWork24\LabWork24\bin\Debug\net8.0\LabWork24.dll
+C:\Temp\ispp21\LabWork24\LabWork24\bin\Debug\net8.0\LabWork24.pdb
+C:\Temp\ispp21\LabWork24\LabWork24\obj\Debug\net8.0\LabWork24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp21\LabWork24\LabWork24\obj\Debug\net8.0\LabWork24.AssemblyInfoInputs.cache
+C:\Temp\ispp21\LabWork24\LabWork24\obj\Debug\net8.0\LabWork24.AssemblyInfo.cs
+C:\Temp\ispp21\LabWork24\LabWork24\obj\Debug\net8.0\LabWork24.csproj.CoreCompileInputs.cache
+C:\Temp\ispp21\LabWork24\LabWork24\obj\Debug\net8.0\LabWork24.dll
+C:\Temp\ispp21\LabWork24\LabWork24\obj\Debug\net8.0\refint\LabWork24.dll
+C:\Temp\ispp21\LabWork24\LabWork24\obj\Debug\net8.0\LabWork24.pdb
+C:\Temp\ispp21\LabWork24\LabWork24\obj\Debug\net8.0\LabWork24.genruntimeconfig.cache
+C:\Temp\ispp21\LabWork24\LabWork24\obj\Debug\net8.0\ref\LabWork24.dll

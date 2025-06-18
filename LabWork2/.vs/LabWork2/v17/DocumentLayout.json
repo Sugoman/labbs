@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\123\\LabWork2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4007A1B-2C0F-4336-9C1A-6E424D8FB5E8}|LabWork2\\LabWork2.vcxproj|D:\\123\\LabWork2\\LabWork2\\LabWork2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4007A1B-2C0F-4336-9C1A-6E424D8FB5E8}|LabWork2\\LabWork2.vcxproj|solutionrelative:LabWork2\\LabWork2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5BCCFA-97B1-4C2E-BD27-AD4502394D3A}|Task2\\Task2.vcxproj|D:\\123\\LabWork2\\Task2\\Task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E5BCCFA-97B1-4C2E-BD27-AD4502394D3A}|Task2\\Task2.vcxproj|solutionrelative:Task2\\Task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4F258A-E4BC-41F8-9AA5-8B544B489299}|Task3\\Task3.vcxproj|D:\\123\\LabWork2\\Task3\\Task3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC4F258A-E4BC-41F8-9AA5-8B544B489299}|Task3\\Task3.vcxproj|solutionrelative:Task3\\Task3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBA1D97-5AFA-42D2-8E52-7DB4644FFE24}|Task4\\Task4.vcxproj|D:\\123\\LabWork2\\Task4\\Task4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCBA1D97-5AFA-42D2-8E52-7DB4644FFE24}|Task4\\Task4.vcxproj|solutionrelative:Task4\\Task4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F09BCE2-31AC-445C-AFC9-22E6CE9919C3}|Task5\\Task5.vcxproj|D:\\123\\LabWork2\\Task5\\Task5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F09BCE2-31AC-445C-AFC9-22E6CE9919C3}|Task5\\Task5.vcxproj|solutionrelative:Task5\\Task5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task5.cpp",
+              "DocumentMoniker": "D:\\123\\LabWork2\\Task5\\Task5.cpp",
+              "RelativeDocumentMoniker": "Task5\\Task5.cpp",
+              "ToolTip": "D:\\123\\LabWork2\\Task5\\Task5.cpp",
+              "RelativeToolTip": "Task5\\Task5.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T07:51:39.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task4.cpp",
+              "DocumentMoniker": "D:\\123\\LabWork2\\Task4\\Task4.cpp",
+              "RelativeDocumentMoniker": "Task4\\Task4.cpp",
+              "ToolTip": "D:\\123\\LabWork2\\Task4\\Task4.cpp",
+              "RelativeToolTip": "Task4\\Task4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T07:51:20.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task3.cpp",
+              "DocumentMoniker": "D:\\123\\LabWork2\\Task3\\Task3.cpp",
+              "RelativeDocumentMoniker": "Task3\\Task3.cpp",
+              "ToolTip": "D:\\123\\LabWork2\\Task3\\Task3.cpp",
+              "RelativeToolTip": "Task3\\Task3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T07:43:31.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task2.cpp",
+              "DocumentMoniker": "D:\\123\\LabWork2\\Task2\\Task2.cpp",
+              "RelativeDocumentMoniker": "Task2\\Task2.cpp",
+              "ToolTip": "D:\\123\\LabWork2\\Task2\\Task2.cpp",
+              "RelativeToolTip": "Task2\\Task2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T07:37:27.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LabWork2.cpp",
+              "DocumentMoniker": "D:\\123\\LabWork2\\LabWork2\\LabWork2.cpp",
+              "RelativeDocumentMoniker": "LabWork2\\LabWork2.cpp",
+              "ToolTip": "D:\\123\\LabWork2\\LabWork2\\LabWork2.cpp",
+              "RelativeToolTip": "LabWork2\\LabWork2.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T07:30:38.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\.ispp21\\LabWork22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7AE4A7-00CC-4E38-9500-A8BAC7A43EA2}|LabWork22\\LabWork22.csproj|c:\\temp\\.ispp21\\labwork22\\labwork22\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7AE4A7-00CC-4E38-9500-A8BAC7A43EA2}|LabWork22\\LabWork22.csproj|solutionrelative:labwork22\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7AE4A7-00CC-4E38-9500-A8BAC7A43EA2}|LabWork22\\LabWork22.csproj|c:\\temp\\.ispp21\\labwork22\\labwork22\\passwords.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9C7AE4A7-00CC-4E38-9500-A8BAC7A43EA2}|LabWork22\\LabWork22.csproj|solutionrelative:labwork22\\passwords.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7AE4A7-00CC-4E38-9500-A8BAC7A43EA2}|LabWork22\\LabWork22.csproj|c:\\temp\\.ispp21\\labwork22\\labwork22\\passwordentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7AE4A7-00CC-4E38-9500-A8BAC7A43EA2}|LabWork22\\LabWork22.csproj|solutionrelative:labwork22\\passwordentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7AE4A7-00CC-4E38-9500-A8BAC7A43EA2}|LabWork22\\LabWork22.csproj|c:\\temp\\.ispp21\\labwork22\\labwork22\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9C7AE4A7-00CC-4E38-9500-A8BAC7A43EA2}|LabWork22\\LabWork22.csproj|solutionrelative:labwork22\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Passwords.txt",
+              "DocumentMoniker": "C:\\Temp\\.ispp21\\LabWork22\\LabWork22\\Passwords.txt",
+              "RelativeDocumentMoniker": "LabWork22\\Passwords.txt",
+              "ToolTip": "C:\\Temp\\.ispp21\\LabWork22\\LabWork22\\Passwords.txt",
+              "RelativeToolTip": "LabWork22\\Passwords.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-27T08:32:24.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PasswordEntry.cs",
+              "DocumentMoniker": "C:\\Temp\\.ispp21\\LabWork22\\LabWork22\\PasswordEntry.cs",
+              "RelativeDocumentMoniker": "LabWork22\\PasswordEntry.cs",
+              "ToolTip": "C:\\Temp\\.ispp21\\LabWork22\\LabWork22\\PasswordEntry.cs",
+              "RelativeToolTip": "LabWork22\\PasswordEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T07:37:48.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\.ispp21\\LabWork22\\LabWork22\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork22\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Temp\\.ispp21\\LabWork22\\LabWork22\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LabWork22\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T07:23:52.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Temp\\.ispp21\\LabWork22\\LabWork22\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LabWork22\\MainWindow.xaml",
+              "ToolTip": "C:\\Temp\\.ispp21\\LabWork22\\LabWork22\\MainWindow.xaml",
+              "RelativeToolTip": "LabWork22\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-27T07:23:54.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

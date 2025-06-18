@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Task2": {
+      "commandName": "Project",
+      "commandLineArgs": "-file:123456.txt \r\n-text:Hello",
+      "workingDirectory": "C:\\Temp\\ispp21\\LabWork11SYSPR\\Task2"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

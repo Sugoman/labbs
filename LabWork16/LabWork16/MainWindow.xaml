@@ -1,0 +1,60 @@
+﻿<Window x:Class="LabWork16.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabWork16"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="Файл">
+                <MenuItem Header="Запустить новую задачу" Click="StartNewTask_Click"/>
+                <Separator/>
+                <MenuItem Header="Выход" Click="Exit_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <ToolBar DockPanel.Dock="Top">
+            <Button Content="Обновить" Click="Refresh_Click"/>
+            <Button Content="Снять задачу" Click="EndTask_Click"/>
+            <Button Content="Завершить дерево процессов" Click="KillProccessTree_Click"/>
+        </ToolBar>
+
+        <TabControl DockPanel.Dock="Top">
+            <TabItem Header="Процессы">
+            <Grid>
+                <ListView Name="processListView">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Имя" DisplayMemberBinding="{Binding ProcessName}" Width="200"/>
+                            <GridViewColumn Header="Id процесса" DisplayMemberBinding="{Binding Id}" Width="100"/>
+                            <GridViewColumn Header="Память" DisplayMemberBinding="{Binding Memory}" Width="100"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </Grid>
+            </TabItem>
+
+            <TabItem Header="Приложения">
+                <Grid>
+                    <ListView Name="appListView">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Приложения" DisplayMemberBinding="{Binding Title}" Width="300"/>
+                                <GridViewColumn Header="Время запуска" DisplayMemberBinding="{Binding StartTime}" Width="200"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+        <StatusBar DockPanel.Dock="Bottom">
+            <StatusBarItem>
+                <TextBlock Name="statusTextBlock" Text="Процессов: 0"/>
+            </StatusBarItem>
+        </StatusBar>
+            
+    </DockPanel>
+</Window>

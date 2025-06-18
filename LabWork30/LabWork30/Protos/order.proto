@@ -1,0 +1,56 @@
+﻿syntax = "proto3";
+
+import "google/protobuf/timestamp.proto";
+import "google/protobuf/empty.proto";
+
+option csharp_namespace = "OrderService.Protos";
+
+service OrderService {
+  rpc CreateOrder (CreateOrderRequest) returns (OrderResponse);
+  rpc GetOrder (GetOrderRequest) returns (OrderResponse);
+  rpc UpdateOrder (UpdateOrderRequest) returns (OrderResponse);
+  rpc DeleteOrder (DeleteOrderRequest) returns (google.protobuf.Empty);
+  rpc ListOrders (google.protobuf.Empty) returns (ListOrdersResponse);
+  rpc FilterOrders (FilterOrdersRequest) returns (ListOrdersResponse);
+}
+
+message OrderItem {
+  string name = 1;
+  double price = 2;
+}
+
+message OrderResponse {
+  string id = 1;
+  google.protobuf.Timestamp order_date = 2;
+  repeated OrderItem items = 3;
+}
+
+message CreateOrderRequest {
+  google.protobuf.Timestamp order_date = 1;
+  repeated OrderItem items = 2;
+}
+
+message GetOrderRequest {
+  string id = 1;
+}
+
+message UpdateOrderRequest {
+  string id = 1;
+  google.protobuf.Timestamp order_date = 2;
+  repeated OrderItem items = 3;
+}
+
+message DeleteOrderRequest {
+  string id = 1;
+}
+
+message ListOrdersResponse {
+  repeated OrderResponse orders = 1;
+}
+
+message FilterOrdersRequest {
+  google.protobuf.Timestamp start_date = 1;
+  google.protobuf.Timestamp end_date = 2;
+  double min_total = 3;
+  double max_total = 4;
+}

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\.ispp21\\LabWork25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEDBC86-591E-43B4-B5D5-BF07143C4A7F}|Client\\Client.csproj|c:\\temp\\.ispp21\\labwork25\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEDBC86-591E-43B4-B5D5-BF07143C4A7F}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7762AFF3-435D-48D4-9C1D-72655049725D}|LabWork25\\LabWork25_1.csproj|c:\\temp\\.ispp21\\labwork25\\labwork25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7762AFF3-435D-48D4-9C1D-72655049725D}|LabWork25\\LabWork25_1.csproj|solutionrelative:labwork25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\.ispp21\\LabWork25\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Temp\\.ispp21\\LabWork25\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:52:57.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\.ispp21\\LabWork25\\LabWork25\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork25\\Program.cs",
+              "ToolTip": "C:\\Temp\\.ispp21\\LabWork25\\LabWork25\\Program.cs",
+              "RelativeToolTip": "LabWork25\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:52:28.652Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

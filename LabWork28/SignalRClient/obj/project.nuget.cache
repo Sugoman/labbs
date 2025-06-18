@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "fOOnslOWUUw=",
+  "success": true,
+  "projectFilePath": "C:\\Temp\\.ispp21\\LabWork28\\SignalRClient\\SignalRClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\NugetCache\\Packages\\microsoft.aspnetcore.connections.abstractions\\9.0.6\\microsoft.aspnetcore.connections.abstractions.9.0.6.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\microsoft.aspnetcore.http.connections.client\\9.0.6\\microsoft.aspnetcore.http.connections.client.9.0.6.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\microsoft.aspnetcore.http.connections.common\\9.0.6\\microsoft.aspnetcore.http.connections.common.9.0.6.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\microsoft.aspnetcore.signalr.client\\9.0.6\\microsoft.aspnetcore.signalr.client.9.0.6.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\microsoft.aspnetcore.signalr.client.core\\9.0.6\\microsoft.aspnetcore.signalr.client.core.9.0.6.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\microsoft.aspnetcore.signalr.common\\9.0.6\\microsoft.aspnetcore.signalr.common.9.0.6.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\microsoft.aspnetcore.signalr.protocols.json\\9.0.6\\microsoft.aspnetcore.signalr.protocols.json.9.0.6.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\microsoft.bcl.asyncinterfaces\\9.0.6\\microsoft.bcl.asyncinterfaces.9.0.6.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\microsoft.bcl.timeprovider\\9.0.6\\microsoft.bcl.timeprovider.9.0.6.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\microsoft.extensions.dependencyinjection\\9.0.6\\microsoft.extensions.dependencyinjection.9.0.6.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.6\\microsoft.extensions.dependencyinjection.abstractions.9.0.6.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\microsoft.extensions.features\\9.0.6\\microsoft.extensions.features.9.0.6.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\microsoft.extensions.logging\\9.0.6\\microsoft.extensions.logging.9.0.6.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\microsoft.extensions.logging.abstractions\\9.0.6\\microsoft.extensions.logging.abstractions.9.0.6.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\microsoft.extensions.options\\9.0.6\\microsoft.extensions.options.9.0.6.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\microsoft.extensions.primitives\\9.0.6\\microsoft.extensions.primitives.9.0.6.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\system.diagnostics.diagnosticsource\\9.0.6\\system.diagnostics.diagnosticsource.9.0.6.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\system.io.pipelines\\9.0.6\\system.io.pipelines.9.0.6.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\system.net.serversentevents\\9.0.6\\system.net.serversentevents.9.0.6.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\system.text.encodings.web\\9.0.6\\system.text.encodings.web.9.0.6.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\system.text.json\\9.0.6\\system.text.json.9.0.6.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\system.threading.channels\\9.0.6\\system.threading.channels.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

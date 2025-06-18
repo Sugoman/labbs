@@ -1,0 +1,14 @@
+C:\Temp\ispp21\LabWork11SYSPR\LabWork11SYSPR\bin\Debug\net8.0\LabWork11SYSPR.exe
+C:\Temp\ispp21\LabWork11SYSPR\LabWork11SYSPR\bin\Debug\net8.0\LabWork11SYSPR.deps.json
+C:\Temp\ispp21\LabWork11SYSPR\LabWork11SYSPR\bin\Debug\net8.0\LabWork11SYSPR.runtimeconfig.json
+C:\Temp\ispp21\LabWork11SYSPR\LabWork11SYSPR\bin\Debug\net8.0\LabWork11SYSPR.dll
+C:\Temp\ispp21\LabWork11SYSPR\LabWork11SYSPR\bin\Debug\net8.0\LabWork11SYSPR.pdb
+C:\Temp\ispp21\LabWork11SYSPR\LabWork11SYSPR\obj\Debug\net8.0\LabWork11SYSPR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp21\LabWork11SYSPR\LabWork11SYSPR\obj\Debug\net8.0\LabWork11SYSPR.AssemblyInfoInputs.cache
+C:\Temp\ispp21\LabWork11SYSPR\LabWork11SYSPR\obj\Debug\net8.0\LabWork11SYSPR.AssemblyInfo.cs
+C:\Temp\ispp21\LabWork11SYSPR\LabWork11SYSPR\obj\Debug\net8.0\LabWork11SYSPR.csproj.CoreCompileInputs.cache
+C:\Temp\ispp21\LabWork11SYSPR\LabWork11SYSPR\obj\Debug\net8.0\LabWork11SYSPR.dll
+C:\Temp\ispp21\LabWork11SYSPR\LabWork11SYSPR\obj\Debug\net8.0\refint\LabWork11SYSPR.dll
+C:\Temp\ispp21\LabWork11SYSPR\LabWork11SYSPR\obj\Debug\net8.0\LabWork11SYSPR.pdb
+C:\Temp\ispp21\LabWork11SYSPR\LabWork11SYSPR\obj\Debug\net8.0\LabWork11SYSPR.genruntimeconfig.cache
+C:\Temp\ispp21\LabWork11SYSPR\LabWork11SYSPR\obj\Debug\net8.0\ref\LabWork11SYSPR.dll

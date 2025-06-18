@@ -1,0 +1,4 @@
+C:\Temp\ispp21\LabWork25\TcpClient\obj\Debug\net8.0\TcpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp21\LabWork25\TcpClient\obj\Debug\net8.0\TcpClient.AssemblyInfoInputs.cache
+C:\Temp\ispp21\LabWork25\TcpClient\obj\Debug\net8.0\TcpClient.AssemblyInfo.cs
+C:\Temp\ispp21\LabWork25\TcpClient\obj\Debug\net8.0\TcpClient.csproj.CoreCompileInputs.cache

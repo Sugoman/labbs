@@ -1,0 +1,14 @@
+C:\Temp\.ispp21\LabWork26\Broadcast UDP Client\bin\Debug\net8.0\Broadcast UDP Client.exe
+C:\Temp\.ispp21\LabWork26\Broadcast UDP Client\bin\Debug\net8.0\Broadcast UDP Client.deps.json
+C:\Temp\.ispp21\LabWork26\Broadcast UDP Client\bin\Debug\net8.0\Broadcast UDP Client.runtimeconfig.json
+C:\Temp\.ispp21\LabWork26\Broadcast UDP Client\bin\Debug\net8.0\Broadcast UDP Client.dll
+C:\Temp\.ispp21\LabWork26\Broadcast UDP Client\bin\Debug\net8.0\Broadcast UDP Client.pdb
+C:\Temp\.ispp21\LabWork26\Broadcast UDP Client\obj\Debug\net8.0\Broadcast UDP Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\.ispp21\LabWork26\Broadcast UDP Client\obj\Debug\net8.0\Broadcast UDP Client.AssemblyInfoInputs.cache
+C:\Temp\.ispp21\LabWork26\Broadcast UDP Client\obj\Debug\net8.0\Broadcast UDP Client.AssemblyInfo.cs
+C:\Temp\.ispp21\LabWork26\Broadcast UDP Client\obj\Debug\net8.0\Broadcast UDP Client.csproj.CoreCompileInputs.cache
+C:\Temp\.ispp21\LabWork26\Broadcast UDP Client\obj\Debug\net8.0\Broadcast UDP Client.dll
+C:\Temp\.ispp21\LabWork26\Broadcast UDP Client\obj\Debug\net8.0\refint\Broadcast UDP Client.dll
+C:\Temp\.ispp21\LabWork26\Broadcast UDP Client\obj\Debug\net8.0\Broadcast UDP Client.pdb
+C:\Temp\.ispp21\LabWork26\Broadcast UDP Client\obj\Debug\net8.0\Broadcast UDP Client.genruntimeconfig.cache
+C:\Temp\.ispp21\LabWork26\Broadcast UDP Client\obj\Debug\net8.0\ref\Broadcast UDP Client.dll

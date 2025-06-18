@@ -1,0 +1,15 @@
+﻿<Window x:Class="LabWork16.StartTaskWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabWork16"
+        mc:Ignorable="d"
+        Title="StartTaskWindow" Height="150" Width="400">
+    <Grid>
+        <TextBox Name="filePathTextBox" Margin="10,10,110,40"/>
+        <Button Content="Обзор" Width="80" Height="25" HorizontalAlignment="Right" VerticalAlignment="Top" Click="Browse_Click" Margin="0, 10, 10, 0"/>
+        <Button Content="Ок" Width="80" Height="25" HorizontalAlignment="Right" VerticalAlignment="Bottom" Click="Ok_Button" Margin="0,0,110,10"/>
+        <Button Content="Отмена" Width="80" Height="25" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,10,10" Click="Cancel_Click"/>
+    </Grid>
+</Window>

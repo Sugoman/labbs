@@ -1,0 +1,54 @@
+﻿<Window x:Class="LabWork18.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabWork18"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+
+        <ListView x:Name="DiskListView" Grid.Row="0">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Имя" DisplayMemberBinding="{Binding Name}" Width="50"/>
+                    <GridViewColumn Header="Тип" DisplayMemberBinding="{Binding DriveType}" Width="100"/>
+                    <GridViewColumn Header="Общий размер" DisplayMemberBinding="{Binding TotalSize}" Width="120"/>
+                    <GridViewColumn Header="Использовано %" DisplayMemberBinding="{Binding UsedPercentage}" Width="120"/>
+                    <GridViewColumn Header="Свободно" DisplayMemberBinding="{Binding FreeSpace}" Width="120"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <StackPanel Grid.Row="1">
+            <TextBox x:Name="PathTextBox" Height="25" KeyDown="PathTextBox_KeyDown" Background="LightGray"/>
+            <TabControl x:Name="FolderTabControl">
+                <TabItem Header="Общая информация">
+                    <StackPanel>
+                        <TextBlock x:Name="FilesCountText"/>
+                        <TextBlock x:Name="FoldersCountText"/>
+                        <TextBlock x:Name="FolderSizeText"/>
+                        <TextBlock x:Name="UsedPercentageText"/>
+                    </StackPanel>
+                </TabItem>
+
+                <TabItem Header="Топ 10 файлов">
+                    <ListView x:Name="TopFilesView">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Имя" DisplayMemberBinding="{Binding Name}" Width="200"/>
+                                <GridViewColumn Header="Размер" DisplayMemberBinding="{Binding Size}" Width="100"/>
+                                <GridViewColumn Header="Путь" DisplayMemberBinding="{Binding Path}" Width="300"/>
+                                <GridViewColumn Header="Дата изменения" DisplayMemberBinding="{Binding Modified}" Width="150"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </TabItem>
+            </TabControl>
+        </StackPanel>
+    </Grid>
+</Window>

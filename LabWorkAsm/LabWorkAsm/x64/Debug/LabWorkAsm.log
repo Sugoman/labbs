@@ -1,0 +1,15 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(541,5): warning MSB8029: Промежуточный каталог или каталог выхода не может располагаться во временном каталоге, потому что это может стать причиной проблем с добавочной сборкой.
+  LabWorkAsm.cpp
+C:\Temp\ispp21\LabWorkAsm\LabWorkAsm\LabWorkAsm.cpp(8,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Temp\ispp21\LabWorkAsm\LabWorkAsm\LabWorkAsm.cpp(9,9): error C2065: MOV: необъявленный идентификатор
+C:\Temp\ispp21\LabWorkAsm\LabWorkAsm\LabWorkAsm.cpp(9,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "EAX"
+C:\Temp\ispp21\LabWorkAsm\LabWorkAsm\LabWorkAsm.cpp(9,13): error C2065: EAX: необъявленный идентификатор
+C:\Temp\ispp21\LabWorkAsm\LabWorkAsm\LabWorkAsm.cpp(10,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ADD"
+C:\Temp\ispp21\LabWorkAsm\LabWorkAsm\LabWorkAsm.cpp(10,9): error C2065: ADD: необъявленный идентификатор
+C:\Temp\ispp21\LabWorkAsm\LabWorkAsm\LabWorkAsm.cpp(10,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "EAX"
+C:\Temp\ispp21\LabWorkAsm\LabWorkAsm\LabWorkAsm.cpp(10,13): error C2065: EAX: необъявленный идентификатор
+C:\Temp\ispp21\LabWorkAsm\LabWorkAsm\LabWorkAsm.cpp(11,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "MOV"
+C:\Temp\ispp21\LabWorkAsm\LabWorkAsm\LabWorkAsm.cpp(11,9): error C2065: MOV: необъявленный идентификатор
+C:\Temp\ispp21\LabWorkAsm\LabWorkAsm\LabWorkAsm.cpp(11,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "x"
+C:\Temp\ispp21\LabWorkAsm\LabWorkAsm\LabWorkAsm.cpp(11,16): error C2065: EAX: необъявленный идентификатор
+C:\Temp\ispp21\LabWorkAsm\LabWorkAsm\LabWorkAsm.cpp(12,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"

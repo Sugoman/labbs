@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\.ispp21\\LabWork26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA4B75A-8B84-4E80-9A7A-484BAB344715}|Broadcast UDP Client\\Broadcast UDP Client.csproj|c:\\temp\\.ispp21\\labwork26\\broadcast udp client\\broadcast_udp_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA4B75A-8B84-4E80-9A7A-484BAB344715}|Broadcast UDP Client\\Broadcast UDP Client.csproj|solutionrelative:broadcast udp client\\broadcast_udp_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF744134-C9B0-450C-94AC-7EDF40C6C8F2}|Server\\Server.csproj|c:\\temp\\.ispp21\\labwork26\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF744134-C9B0-450C-94AC-7EDF40C6C8F2}|Server\\Server.csproj|solutionrelative:server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65308349-DF9C-49AF-A66E-B9179588D59B}|Client\\Client.csproj|c:\\temp\\.ispp21\\labwork26\\client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65308349-DF9C-49AF-A66E-B9179588D59B}|Client\\Client.csproj|solutionrelative:client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Broadcast_UDP_Client.cs",
+              "DocumentMoniker": "C:\\Temp\\.ispp21\\LabWork26\\Broadcast UDP Client\\Broadcast_UDP_Client.cs",
+              "RelativeDocumentMoniker": "Broadcast UDP Client\\Broadcast_UDP_Client.cs",
+              "ToolTip": "C:\\Temp\\.ispp21\\LabWork26\\Broadcast UDP Client\\Broadcast_UDP_Client.cs",
+              "RelativeToolTip": "Broadcast UDP Client\\Broadcast_UDP_Client.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:10:57.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Temp\\.ispp21\\LabWork26\\Client\\Client.cs",
+              "RelativeDocumentMoniker": "Client\\Client.cs",
+              "ToolTip": "C:\\Temp\\.ispp21\\LabWork26\\Client\\Client.cs",
+              "RelativeToolTip": "Client\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:56:18.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Temp\\.ispp21\\LabWork26\\Server\\Server.cs",
+              "RelativeDocumentMoniker": "Server\\Server.cs",
+              "ToolTip": "C:\\Temp\\.ispp21\\LabWork26\\Server\\Server.cs",
+              "RelativeToolTip": "Server\\Server.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:55:50.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

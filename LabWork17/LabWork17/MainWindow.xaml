@@ -1,0 +1,59 @@
+﻿<Window x:Class="LabWork17.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabWork17"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="Файл">
+                <MenuItem Header="Выход" Click="Exit_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <TextBox Name="PathTextBox" Text="C:\" DockPanel.Dock="Top" KeyDown="PathTextBox_KeyDown"/>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+
+            <TreeView Name="FolderTree" SelectedItemChanged="FolderTree_SelectedItemChanged">
+                <TreeView.ItemTemplate>
+                    <HierarchicalDataTemplate DataType="{x:Type local:Folder}" ItemsSource="{Binding Subfolders}">
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="{Binding Icon}" Width="16" Height="16" Margin="2"/>
+                            <TextBlock Text="{Binding Name}" Margin="5, 0, 0, 0"/>
+                        </StackPanel>
+                    </HierarchicalDataTemplate>
+                </TreeView.ItemTemplate>
+            </TreeView>
+
+            <ListView Name="FileList" Grid.Column="1" SelectionMode="Extended">
+                <ListView.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem Header="Копировать" Name="CopyFiles" Click="CopyFiles_Click"/>
+                        <MenuItem Header="Вставить" Name="PasteFiles" Click="PasteFiles_Click"/>
+                    </ContextMenu>
+                </ListView.ContextMenu>
+            <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Иконка" Width="40">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Image Source="{Binding Icon}" Width="16" Height="16"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="Имя" DisplayMemberBinding="{Binding Name}" Width="200"/>
+                        <GridViewColumn Header="Тип" DisplayMemberBinding="{Binding Type}" Width="100"/>
+                        <GridViewColumn Header="Дата изменения" DisplayMemberBinding="{Binding DateModified}" Width="150"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Grid>
+    </DockPanel>
+</Window>

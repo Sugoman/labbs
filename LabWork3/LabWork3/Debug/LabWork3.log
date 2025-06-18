@@ -1,0 +1,2 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(541,5): warning MSB8029: Промежуточный каталог или каталог выхода не может располагаться во временном каталоге, потому что это может стать причиной проблем с добавочной сборкой.
+  LabWork3.vcxproj -> C:\Temp\ispp21\LabWork3\Debug\LabWork3.exe
